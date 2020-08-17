@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597085027 source:c:\users\marina\desktop\tp repaso arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
